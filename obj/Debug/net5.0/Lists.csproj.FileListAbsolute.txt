@@ -1,0 +1,16 @@
+C:\Users\flysw\source\repos\Lists\bin\Debug\net5.0\Lists.exe
+C:\Users\flysw\source\repos\Lists\bin\Debug\net5.0\Lists.deps.json
+C:\Users\flysw\source\repos\Lists\bin\Debug\net5.0\Lists.runtimeconfig.json
+C:\Users\flysw\source\repos\Lists\bin\Debug\net5.0\Lists.runtimeconfig.dev.json
+C:\Users\flysw\source\repos\Lists\bin\Debug\net5.0\Lists.dll
+C:\Users\flysw\source\repos\Lists\bin\Debug\net5.0\ref\Lists.dll
+C:\Users\flysw\source\repos\Lists\bin\Debug\net5.0\Lists.pdb
+C:\Users\flysw\source\repos\Lists\obj\Debug\net5.0\Lists.csproj.AssemblyReference.cache
+C:\Users\flysw\source\repos\Lists\obj\Debug\net5.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flysw\source\repos\Lists\obj\Debug\net5.0\Lists.AssemblyInfoInputs.cache
+C:\Users\flysw\source\repos\Lists\obj\Debug\net5.0\Lists.AssemblyInfo.cs
+C:\Users\flysw\source\repos\Lists\obj\Debug\net5.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\flysw\source\repos\Lists\obj\Debug\net5.0\Lists.dll
+C:\Users\flysw\source\repos\Lists\obj\Debug\net5.0\ref\Lists.dll
+C:\Users\flysw\source\repos\Lists\obj\Debug\net5.0\Lists.pdb
+C:\Users\flysw\source\repos\Lists\obj\Debug\net5.0\Lists.genruntimeconfig.cache
