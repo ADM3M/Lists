@@ -26,7 +26,7 @@ namespace Lists
 
         public static void TwoRefMain()
         {
-            OneRefList<float> lst = new(1, 1, 2.1f, 3.3f, 11.1f);
+            TwoRefList<float> lst = new(1, 1, 2.1f, 3.3f, 11.1f);
             Console.WriteLine("Length is: " + lst.Length);
             Console.WriteLine("Initial list: " + lst.ToString());
             lst.Add(0);

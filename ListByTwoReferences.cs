@@ -127,15 +127,16 @@ namespace TwoRefList
                 return string.Empty;
             }
 
-            string result = "";
+            StringBuilder result = new();
             Node<T> current = _head;
+
             while (current != null)
             {
-                result += $"{current.data} ";
+                result.Append(current.data + " ");
                 current = current.next;
             }
 
-            return result;
+            return result.ToString();
         }
 
         public Node<T> this[int index]

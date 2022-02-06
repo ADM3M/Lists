@@ -1,4 +1,6 @@
-﻿namespace OneRefList
+﻿using System.Text;
+
+namespace OneRefList
 {
     public class OneRefList<T>
     {
@@ -114,13 +116,13 @@
 
         public override string ToString()
         {
-            string result = "";
+            StringBuilder result = new();
             for (Node<T> item = _head; item != null; item = item.reference)
             {
-                result += $"{item.data} ";
+                result.Append(item.data + " ");
             }
 
-            return result;
+            return result.ToString();
         }
 
         public Node<T> this[int index]
